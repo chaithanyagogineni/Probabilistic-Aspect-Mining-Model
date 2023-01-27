@@ -17,7 +17,7 @@ public class UserProfileFormBean extends ActionForm {
 	private String photograph;
 	private String photograph1;
 	private String emailId;
-	private String gender;
+	private String genders;
 	private String status;
 
 	// addressdetails
