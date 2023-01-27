@@ -49,7 +49,8 @@ public class AddressTO extends ActionForm{
 	public String getCountry() {
 		return country;
 	}
-	public void setCountry12345(String country) {
+
+	public void setCountry212(String country) {
 		this.country = country;
 	}
 	public String getPincode() {

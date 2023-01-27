@@ -7,6 +7,8 @@ public class BankTO extends ActionForm{
 	
 	//Bean represeting the Bank Data
 	
+	//testing Java Application
+	
 	private int useridref;
 	private int  bankid;
 	private String bankName;
