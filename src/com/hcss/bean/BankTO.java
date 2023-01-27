@@ -5,6 +5,7 @@ import org.apache.struts.action.ActionForm;
 
 public class BankTO extends ActionForm{
 	
+	//Bean represeting the Bank Data
 	
 	private int useridref;
 	private int  bankid;
