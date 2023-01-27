@@ -17,6 +17,8 @@ public class BankTO extends ActionForm{
 	private String atmcardno;
 	private String atmpin;
 	private String siteurl;
+	
+	//instance methods
 	public int getUseridref() {
 		return useridref;
 	}
