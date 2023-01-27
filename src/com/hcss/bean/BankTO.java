@@ -5,6 +5,7 @@ import org.apache.struts.action.ActionForm;
 
 public class BankTO extends ActionForm{
 	
+	//Bean represeting the Bank Data
 	
 	//testing Java Application
 	
@@ -18,6 +19,8 @@ public class BankTO extends ActionForm{
 	private String atmcardno;
 	private String atmpin;
 	private String siteurl;
+	
+	//instance methods
 	public int getUseridref() {
 		return useridref;
 	}
