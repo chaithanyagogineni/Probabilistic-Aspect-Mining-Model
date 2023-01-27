@@ -3,18 +3,7 @@ package com.hcss.bean;
 import org.apache.struts.action.ActionForm;
 
 public class AddressTO extends ActionForm{
-	private int addressid;
-	private int useridref;
-	private String addresstype;
-	private String houseno;
-	private String street;
-	private String city;
-	private String district;
-	private String state;
-	private String country;
-	private String pincode;
-	private String phonetype;
-	private String phoneno;
+	
 	public int getAddressid() {
 		return addressid;
 	}
