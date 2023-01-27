@@ -6,6 +6,8 @@ import org.apache.struts.action.ActionForm;
 public class BankTO extends ActionForm{
 	
 	
+	//testing Java Application
+	
 	private int useridref;
 	private int  bankid;
 	private String bankName;
